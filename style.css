@@ -1,0 +1,17 @@
+.navigacijas-poga {
+font: normal normal normal 20px Segoe UI;
+color: black;
+	}
+	
+#galvene {
+	background: transparent url('img/rbnraw-8IY27TsGaVE-unsplash.png') no-repeat ;
+	
+    opacity: 1;
+    width: 50%;
+    height: 50%;
+}
+
+h1 {
+font: 28px Segoe UI;
+color: var(--unnamed-color-000000);
+	}
